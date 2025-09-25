@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tony! <br/><a href="https://www.linkedin.com/in/tony-honesto-4195023">AI & Cloud Operations Engineer | ML & Data Analytics | AWS Certified | Applying Motorsports Performance Monitoring to Enterprise Innovation</a></h1>
+<h1>Hi, I'm Tony! <br/><a href="https://www.linkedin.com/in/tony-honesto-4195023">AI & Cloud Operations Engineer | ML & Data Analytics | AWS Certified</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
