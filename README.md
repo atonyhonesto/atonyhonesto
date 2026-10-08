@@ -71,13 +71,11 @@ Case study: moving a logistics company's high-volume EDI platform from on-prem B
 
 ### ✍️ Latest on LinkedIn
 
-| | |
-|---|---|
-| 👁️ | [Agent Reach: Give your AI agent eyes to see the entire internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/) |
-| 🐍 | [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/) |
-| ⚡ | [AWS Lambda: the fastest code in racing only runs when it has to](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/) |
-| 🪣 | [Amazon S3: every lap is a data event](https://www.linkedin.com/pulse/amazon-s3-tony-honesto-o8hmc/) |
-| 🔌 | [A Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) · [deep dive](https://github.com/atonyhonesto/tech-articles/blob/main/articles/2026-06-csharp-mcp-server-for-parquet/README.md) |
+- 👁️ [Agent Reach: Give your AI agent eyes to see the entire internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/)
+- 🐍 [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/)
+- ⚡ [AWS Lambda: the fastest code in racing only runs when it has to](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/)
+- 🪣 [Amazon S3: every lap is a data event](https://www.linkedin.com/pulse/amazon-s3-tony-honesto-o8hmc/)
+- 🔌 [A Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) · [deep dive](https://github.com/atonyhonesto/tech-articles/blob/main/articles/2026-06-csharp-mcp-server-for-parquet/README.md)
 
 <sub>→ <a href="https://github.com/atonyhonesto/tech-articles">Browse all 141 articles by theme</a></sub>
 
