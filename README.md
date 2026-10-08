@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tony-honesto-4195023"><img src="https://img.shields.io/badge/LinkedIn-Tony_Honesto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/atonyhonesto/tech-articles"><img src="https://img.shields.io/badge/Articles-141_and_counting-6f42c1?style=for-the-badge" alt="Articles"></a>
+  <a href="https://github.com/atonyhonesto/tech-articles"><img src="https://img.shields.io/badge/Articles-142_and_counting-6f42c1?style=for-the-badge" alt="Articles"></a>
   <a href="mailto:atonyhonesto@gmail.com"><img src="https://img.shields.io/badge/Email-atonyhonesto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based_in-Carmel,_Indiana-0b1f3a?style=for-the-badge" alt="Carmel, Indiana">
 </p>
@@ -18,7 +18,7 @@ I spend most of my time on the unglamorous, essential part of software: getting 
 Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#, ML pipelines that know when not to trust themselves, and writing about all of it on LinkedIn.
 
 - 🔭 **Building:** .NET 10 MCP servers that let Claude Code query local data in plain English
-- ✍️ **Writing:** [141 articles](https://github.com/atonyhonesto/tech-articles) on cloud, integration, data, AI and motorsports tech, now with diagrams and companion code
+- ✍️ **Writing:** [142 articles](https://github.com/atonyhonesto/tech-articles) on cloud, integration, data, AI and motorsports tech, now with diagrams and companion code
 - 🏁 **Roots:** timing & scoring at the 2000 Indy 500, NASCAR Race Control, Pi Research data acquisition, Optimum G vehicle dynamics
 - 🤝 **Open to:** cloud, integration, data and motorsports/sports-tech engineering roles
 
@@ -71,13 +71,13 @@ Case study: moving a logistics company's high-volume EDI platform from on-prem B
 
 ### ✍️ Latest on LinkedIn
 
+- 📺 [Three Stakeholders, One Proof of Concept: a real-time watch session tracker](https://www.linkedin.com/pulse/three-stakeholders-one-proof-concept-tony-honesto-rvkqc/) · [code](https://github.com/atonyhonesto/watch-session-tracker-lightweight)
 - 👁️ [Agent Reach: Give your AI agent eyes to see the entire internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/)
 - 🐍 [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/)
 - ⚡ [AWS Lambda: the fastest code in racing only runs when it has to](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/)
-- 🪣 [Amazon S3: every lap is a data event](https://www.linkedin.com/pulse/amazon-s3-tony-honesto-o8hmc/)
 - 🔌 [A Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) · [deep dive](https://github.com/atonyhonesto/tech-articles/blob/main/articles/2026-06-csharp-mcp-server-for-parquet/README.md)
 
-<sub>→ <a href="https://github.com/atonyhonesto/tech-articles">Browse all 141 articles by theme</a></sub>
+<sub>→ <a href="https://github.com/atonyhonesto/tech-articles">Browse all 142 articles by theme</a></sub>
 
 ---
 
