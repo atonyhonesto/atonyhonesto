@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Tony Honesto, Cloud &amp; Integration Engineer</title>
+  <desc id="desc">Banner reading: Tony Honesto. Cloud and Integration Engineer. Moving data between systems that were never meant to talk, from the timing stand to the cloud.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f3a"/>
+      <stop offset="1" stop-color="#16345c"/>
+    </linearGradient>
+    <pattern id="checker" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#ffffff"/>
+      <rect x="12" y="12" width="12" height="12" fill="#ffffff"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="flagmask">
+      <rect x="840" y="0" width="360" height="300" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+
+  <!-- checkered flag fading in from the right -->
+  <rect x="840" y="0" width="360" height="300" fill="url(#checker)" opacity="0.10" mask="url(#flagmask)"/>
+
+  <!-- racing stripe -->
+  <rect x="0" y="252" width="1200" height="6" fill="#f2a900"/>
+  <rect x="0" y="262" width="1200" height="2" fill="#f2a900" opacity="0.55"/>
+
+  <!-- timing-screen style position tag -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <rect x="64" y="58" width="104" height="30" rx="4" fill="#f2a900"/>
+    <text x="116" y="79" text-anchor="middle" font-size="16" font-weight="700" fill="#0b1f3a" letter-spacing="1.5">EST. 1999</text>
+
+    <text x="62" y="148" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="2">TONY HONESTO</text>
+    <text x="64" y="188" font-size="26" font-weight="600" fill="#9ec5f8">Cloud &amp; Integration Engineer</text>
+    <text x="64" y="226" font-size="19" fill="#d6e2f2">Moving data between systems that were never meant to talk, from the timing stand to the cloud.</text>
+  </g>
+
+  <!-- telemetry ticker -->
+  <g font-family="'Consolas', 'SFMono-Regular', Menlo, monospace" font-size="15" fill="#9ec5f8" opacity="0.9">
+    <text x="64" y="288">C#  ·  .NET  ·  AZURE  ·  AWS  ·  EDI / X12  ·  HL7  ·  BIZTALK → LOGIC APPS  ·  PYTHON  ·  SQL  ·  AI / MCP</text>
+  </g>
+</svg>
