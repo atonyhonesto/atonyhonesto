@@ -29,6 +29,16 @@ Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#,
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+#### 🏎️ [pitwall-readiness](https://github.com/atonyhonesto/pitwall-readiness)
+A pre-session race-operations board built with Blazor and .NET 8. Critical checks gate session readiness, concurrent edits are protected, and every change is recorded in a transactional SQL Server audit log. Parameterized ADO.NET, no Entity Framework, with sample data, unit tests and SQL integration tests in GitHub Actions.
+
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO.NET-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🏁 [race-speed-inference](https://github.com/atonyhonesto/race-speed-inference)
