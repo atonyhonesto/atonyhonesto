@@ -124,6 +124,13 @@ A C# batch job on AWS Fargate, orchestrated by Step Functions: exit codes decide
 
 Recent posts and selected articles, grouped by engineering theme, with links to runnable companion projects.
 
+#### MCP and sports analytics
+
+- [Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) — The original C# foundation for discovering schemas and querying local Parquet data. · [code](https://github.com/atonyhonesto/ParquetMCPServer)
+- [Parquet for Analytics & Feature Consumption](https://www.linkedin.com/pulse/parquet-analytics-feature-consumption-tony-honesto-oww7c/) — Columnar datasets as inputs to analytics and feature workflows. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/parquet-feature-store)
+- [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/) — A motorsport application of machine learning, with a tire-degradation and pit-window example. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/tire-deg-pit-window)
+- [AI/ML at Race Speed — Low-Latency Inference, Confidence Thresholds & Fallback Logic](https://www.linkedin.com/pulse/aiml-race-speed-low-latency-inference-confidence-fallback-honesto-hwmbc/) — Latency budgets, confidence thresholds and fallback behavior around a race-day model. · [code](https://github.com/atonyhonesto/race-speed-inference)
+
 #### AI assisted development and delivery quality
 
 - [The AI Coding Tax — Stop AI Tools From Quietly Accumulating Technical Debt](https://www.linkedin.com/pulse/ai-coding-tax-stop-tools-from-quietly-accumulating-debt-tony-honesto-ikagc/) — Code churn, rework and hotspots: evidence for where faster code generation creates downstream work. · [code](https://github.com/atonyhonesto/ai-coding-tax-analyzer)
@@ -142,13 +149,6 @@ Recent posts and selected articles, grouped by engineering theme, with links to 
 - [AWS Lambda](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/) — Event-driven processing, illustrated with race events and Python handlers. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/lambda-race-events)
 - [Amazon S3](https://www.linkedin.com/pulse/amazon-s3-tony-honesto-o8hmc/) — Object storage and a companion telemetry-data layout example. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/s3-telemetry-lake)
 - [Deploying a C# Console Application to AWS Fargate](https://www.linkedin.com/pulse/deploying-c-console-application-aws-fargate-tony-honesto-yejac/) — C# batch processing, container execution and Step Functions orchestration. · [code](https://github.com/atonyhonesto/csharp-fargate-stepfunctions)
-
-#### MCP and sports analytics
-
-- [Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) — The original C# foundation for discovering schemas and querying local Parquet data. · [code](https://github.com/atonyhonesto/ParquetMCPServer)
-- [Parquet for Analytics & Feature Consumption](https://www.linkedin.com/pulse/parquet-analytics-feature-consumption-tony-honesto-oww7c/) — Columnar datasets as inputs to analytics and feature workflows. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/parquet-feature-store)
-- [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/) — A motorsport application of machine learning, with a tire-degradation and pit-window example. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/tire-deg-pit-window)
-- [AI/ML at Race Speed — Low-Latency Inference, Confidence Thresholds & Fallback Logic](https://www.linkedin.com/pulse/aiml-race-speed-low-latency-inference-confidence-fallback-honesto-hwmbc/) — Latency budgets, confidence thresholds and fallback behavior around a race-day model. · [code](https://github.com/atonyhonesto/race-speed-inference)
 
 **Also recent:** [Agent Reach | Give your AI Agent Eyes to see the entire Internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/).
 
