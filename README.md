@@ -122,13 +122,39 @@ A C# batch job on AWS Fargate, orchestrated by Step Functions: exit codes decide
 
 ### ✍️ Latest on LinkedIn
 
-- 📺 [Three Stakeholders, One Proof of Concept: a real-time watch session tracker](https://www.linkedin.com/pulse/three-stakeholders-one-proof-concept-tony-honesto-rvkqc/) · [code](https://github.com/atonyhonesto/watch-session-tracker-lightweight)
-- 👁️ [Agent Reach: Give your AI agent eyes to see the entire internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/)
-- 🐍 [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/) · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/tire-deg-pit-window)
-- ⚡ [AWS Lambda: the fastest code in racing only runs when it has to](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/) · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/lambda-race-events)
-- 🔌 [A Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) · [deep dive](https://github.com/atonyhonesto/tech-articles/blob/main/articles/2026-06-csharp-mcp-server-for-parquet/README.md)
+Recent posts and selected articles, grouped by engineering theme, with links to runnable companion projects.
 
-<sub>→ <a href="https://github.com/atonyhonesto/tech-articles">Browse all 142 articles by theme</a> · <a href="https://github.com/atonyhonesto/article-labs">run the code behind them</a></sub>
+#### AI assisted development and delivery quality
+
+- [The AI Coding Tax — Stop AI Tools From Quietly Accumulating Technical Debt](https://www.linkedin.com/pulse/ai-coding-tax-stop-tools-from-quietly-accumulating-debt-tony-honesto-ikagc/) — Code churn, rework and hotspots: evidence for where faster code generation creates downstream work. · [code](https://github.com/atonyhonesto/ai-coding-tax-analyzer)
+- [ChatGPT vs Codex for a Product Requirement](https://www.linkedin.com/pulse/chatgpt-vs-codex-product-requirement-tony-honesto-rcgbc/) — Comparing AI tools through a product-requirement task.
+- [Leveraging XP Practices](https://www.linkedin.com/pulse/leveraging-xp-practices-tony-honesto-fesyc/) — Engineering practices for iterative software delivery.
+- [Why Most AI Projects Don't Deliver](https://www.linkedin.com/pulse/why-most-ai-projects-dont-deliver-tony-honesto-yuhac/) — Moving from an AI experiment to an evaluated outcome. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/ai-eval-harness)
+
+#### Application design and dependable APIs
+
+- [Three Stakeholders, One Proof of Concept: Building a Real-Time Watch Session Tracker](https://www.linkedin.com/pulse/three-stakeholders-one-proof-concept-tony-honesto-rvkqc/) — Stakeholder requirements, validation, deduplication and the trade-offs behind a real-time service. · [code](https://github.com/atonyhonesto/watch-session-tracker-lightweight)
+- [SignalR vs .NET 10 Server-Sent Events - Real-Time Communication](https://www.linkedin.com/pulse/signalr-vs-net-10-server-sent-events-real-time-tony-honesto-ofigc/) — Two approaches to a live race feed in ASP.NET Core, with shared data and automated tests. · [code](https://github.com/atonyhonesto/signalr-vs-sse-dotnet10)
+- [OAuth 2.0 in Modern Applications](https://www.linkedin.com/pulse/oauth-20-modern-applications-tony-honesto-b3aec/) — Authorization code flow, PKCE and JWT validation, backed by a runnable walkthrough. · [code](https://github.com/atonyhonesto/oauth2-pkce-jwt-walkthrough)
+
+#### AWS processing and data workflows
+
+- [AWS Lambda](https://www.linkedin.com/pulse/aws-lambda-tony-honesto-5risc/) — Event-driven processing, illustrated with race events and Python handlers. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/lambda-race-events)
+- [Amazon S3](https://www.linkedin.com/pulse/amazon-s3-tony-honesto-o8hmc/) — Object storage and a companion telemetry-data layout example. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/s3-telemetry-lake)
+- [Deploying a C# Console Application to AWS Fargate](https://www.linkedin.com/pulse/deploying-c-console-application-aws-fargate-tony-honesto-yejac/) — C# batch processing, container execution and Step Functions orchestration. · [code](https://github.com/atonyhonesto/csharp-fargate-stepfunctions)
+
+#### MCP and sports analytics
+
+- [Local C# MCP Server for Parquet Data](https://www.linkedin.com/pulse/local-c-mcp-server-parquet-data-tony-honesto-wu7qf/) — The original C# foundation for discovering schemas and querying local Parquet data. · [code](https://github.com/atonyhonesto/ParquetMCPServer)
+- [Parquet for Analytics & Feature Consumption](https://www.linkedin.com/pulse/parquet-analytics-feature-consumption-tony-honesto-oww7c/) — Columnar datasets as inputs to analytics and feature workflows. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/parquet-feature-store)
+- [Python Machine Learning in Motorsports](https://www.linkedin.com/pulse/python-machine-learning-motorsports-tony-honesto-aqmmc/) — A motorsport application of machine learning, with a tire-degradation and pit-window example. · [code](https://github.com/atonyhonesto/article-labs/tree/main/labs/tire-deg-pit-window)
+- [AI/ML at Race Speed — Low-Latency Inference, Confidence Thresholds & Fallback Logic](https://www.linkedin.com/pulse/aiml-race-speed-low-latency-inference-confidence-fallback-honesto-hwmbc/) — Latency budgets, confidence thresholds and fallback behavior around a race-day model. · [code](https://github.com/atonyhonesto/race-speed-inference)
+
+**Also recent:** [Agent Reach | Give your AI Agent Eyes to see the entire Internet](https://www.linkedin.com/pulse/agent-reach-give-your-ai-eyes-see-entire-internet-tony-honesto-vemkc/).
+
+**Related portfolio work:** [Pitwall Readiness](https://github.com/atonyhonesto/pitwall-readiness) — Blazor/.NET 8, SQL Server and parameterized ADO.NET; [Basketball Parquet MCP](https://github.com/atonyhonesto/basketball-parquet-mcp) — the NBA-team use-case follow-up with synthetic data and tested shooting calculations; [Motorsport Data Platform Blueprint](https://github.com/atonyhonesto/motorsport-data-platform-blueprint) — governed AI and simulation access as an architecture concept.
+
+<sub>→ <a href="https://github.com/atonyhonesto/tech-articles">Browse all 142 articles by theme</a> · <a href="https://github.com/atonyhonesto/article-labs">run the article labs</a></sub>
 
 ---
 
