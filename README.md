@@ -20,6 +20,7 @@ Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#,
 - 🔭 **Building:** .NET 10 MCP servers that let Claude Code query local data in plain English
 - ✍️ **Writing:** [142 articles](https://github.com/atonyhonesto/tech-articles) on cloud, integration, data, AI and motorsports tech; 81 of them link to code you can run
 - 🏁 **Roots:** timing & scoring at the Indy 500, NASCAR Race Control, Pi Research data acquisition, Optimum G vehicle dynamics
+- 🏎️ [Motorsports related content](https://github.com/search?q=user%3Aatonyhonesto+topic%3Amotorsport&type=repositories) — race data, telemetry, strategy and simulation repositories
 - 🤝 **Open to:** cloud, integration, data and motorsports/sports-tech engineering roles
 
 ---
