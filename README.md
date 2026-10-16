@@ -1,5 +1,9 @@
+# Tony Honesto
+
+**Software Engineer | Motorsports Technology | C#/.NET | Data & AI**
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Tony Honesto, Cloud & Integration Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Problem Solver. Results Driven. Turning complex challenges into practical, working solutions." width="100%">
 </p>
 
 <p align="center">
@@ -9,23 +13,65 @@
   <img src="https://img.shields.io/badge/Based_in-Carmel,_Indiana-0b1f3a?style=for-the-badge" alt="Carmel, Indiana">
 </p>
 
+I build software that solves real-world problems, turning complex requirements into practical applications, reliable data workflows and tools people can use. My experience spans motorsports technology, race operations, enterprise applications, data engineering and AI-assisted development.
+
+I work with engineers and stakeholders to understand the problem, build a useful solution, and carry it through testing and delivery. That work has included race timing and scoring, EDI and HL7 integrations, enterprise application modernization, and making data accessible to analytics and AI tools.
+
+## What I Build
+
+- **Engineering and race operations applications:** C#/.NET and Blazor tools backed by SQL Server, with practical workflows, clear data contracts and automated checks.
+- **Data engineering and integration:** ingestion pipelines, APIs and migrations that connect enterprise systems and make data usable for analysis, including EDI, HL7 and BizTalk-to-Azure integration work.
+- **AI and analytics tools:** MCP servers for querying Parquet data, sports analytics demonstrations, and model workflows with explicit confidence and fallback behavior.
+- **Software delivery improvements:** AI-assisted development supported by validation, tests, CI and evidence of where rework or bottlenecks occur.
+
+- ✍️ **Writing:** [142 articles](https://github.com/atonyhonesto/tech-articles) on cloud, integration, data, AI and motorsports tech; 81 of them link to code you can run.
+- 🏁 **Roots:** timing & scoring at the Indy 500, NASCAR Race Control, Pi Research data acquisition, Optimum G vehicle dynamics.
+- 🏎️ [Motorsports related content](https://github.com/search?q=user%3Aatonyhonesto+topic%3Amotorsport&type=repositories) — race data, telemetry, strategy and simulation repositories.
+- 🤝 **Open to:** software engineering opportunities across motorsports technology, enterprise applications, data and AI.
+
 ---
 
-### 👋 Hi, I'm Tony
+## Technologies I Work With
 
-I spend most of my time on the unglamorous, essential part of software: getting data from one system to another **correctly, on time, every time**. That's meant EDI with trading partners, HL7 between hospital systems, BizTalk estates moved onto Azure, and telemetry from a race car to the people making the call on the pit wall.
+**Languages and frameworks**<br>
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-555?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#, ML pipelines that know when not to trust themselves, and writing about all of it on LinkedIn.
+**Cloud and delivery**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Logic_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-- 🔭 **Building:** .NET 10 MCP servers that let Claude Code query local data in plain English
-- ✍️ **Writing:** [142 articles](https://github.com/atonyhonesto/tech-articles) on cloud, integration, data, AI and motorsports tech; 81 of them link to code you can run
-- 🏁 **Roots:** timing & scoring at the Indy 500, NASCAR Race Control, Pi Research data acquisition, Optimum G vehicle dynamics
-- 🏎️ [Motorsports related content](https://github.com/search?q=user%3Aatonyhonesto+topic%3Amotorsport&type=repositories) — race data, telemetry, strategy and simulation repositories
-- 🤝 **Open to:** cloud, integration, data and motorsports/sports-tech engineering roles
+**Integration & data**<br>
+![BizTalk](https://img.shields.io/badge/BizTalk-555?style=flat-square)
+![EDI](https://img.shields.io/badge/EDI_X12-555?style=flat-square)
+![HL7](https://img.shields.io/badge/HL7-555?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+**AI & ML**<br>
+![Claude Code](https://img.shields.io/badge/Claude_Code_·_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Splunk MLTK](https://img.shields.io/badge/Splunk_MLTK-000000?style=flat-square&logo=splunk&logoColor=white)
 
 ---
 
-### ⭐ Featured work
+## Featured Projects
 
 <table>
 <tr>
@@ -120,7 +166,7 @@ A C# batch job on AWS Fargate, orchestrated by Step Functions: exit codes decide
 
 ---
 
-### ✍️ Latest on LinkedIn
+## Latest on LinkedIn
 
 Recent posts and selected articles, grouped by engineering theme, with links to runnable companion projects.
 
@@ -158,41 +204,7 @@ Recent posts and selected articles, grouped by engineering theme, with links to 
 
 ---
 
-### 🧰 Toolbox
-
-**Languages & frameworks**<br>
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Cloud**<br>
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Logic Apps](https://img.shields.io/badge/Logic_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-**Integration & data**<br>
-![BizTalk](https://img.shields.io/badge/BizTalk-555?style=flat-square)
-![EDI](https://img.shields.io/badge/EDI_X12-555?style=flat-square)
-![HL7](https://img.shields.io/badge/HL7-555?style=flat-square)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-
-**AI & ML**<br>
-![Claude Code](https://img.shields.io/badge/Claude_Code_·_MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_Agents-412991?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Splunk MLTK](https://img.shields.io/badge/Splunk_MLTK-000000?style=flat-square&logo=splunk&logoColor=white)
-
----
-
-### 🏁 From the timing stand to the cloud
+## From the timing stand to the cloud
 
 | Where | What I did there |
 |---|---|
@@ -204,7 +216,7 @@ Recent posts and selected articles, grouped by engineering theme, with links to 
 
 ---
 
-### 📜 Certifications & training
+## Certifications and Training
 
 - AWS Knowledge badges: **Events and Workflows** · **Cloud Essentials** · **Serverless** ([Credly](https://www.credly.com/users/tony-honesto))
 - OpenAI: **Building Agents**
