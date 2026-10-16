@@ -31,6 +31,16 @@ Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#,
 <tr>
 <td colspan="2" valign="top">
 
+#### 🏎️ [motorsport-data-platform-blueprint](https://github.com/atonyhonesto/motorsport-data-platform-blueprint)
+An independent architecture concept for making governed race data usable by AI assistants, simulation and digital twins. Includes a presentation outline, MCP tool contract, tenant-isolation controls and a historical-data pilot plan. Architecture and design material, not a deployed platform.
+
+![Architecture](https://img.shields.io/badge/Architecture-0b1f3a?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square) ![Simulation](https://img.shields.io/badge/Simulation-006d77?style=flat-square) ![Data governance](https://img.shields.io/badge/Data_governance-555?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 #### 🏎️ [pitwall-readiness](https://github.com/atonyhonesto/pitwall-readiness)
 A pre-session race-operations board built with Blazor and .NET 8. Critical checks gate session readiness, concurrent edits are protected, and every change is recorded in a transactional SQL Server audit log. Parameterized ADO.NET, no Entity Framework, with sample data, unit tests and SQL integration tests in GitHub Actions.
 
