@@ -200,7 +200,7 @@ Recent posts and selected articles, grouped by engineering theme, with links to 
 | **NASCAR** | Competition Technology Operator in Race Control at crown-jewel events |
 | **ProTrans International** | Cloud engineer & EDI developer; led the BizTalk → Azure Integration Services migration |
 | **Ascension / St. Vincent Health** | Technology engineering lead; BizTalk EDI and Azure Integration Accounts for healthcare |
-| **Indianapolis Motor Speedway & Team Green** | Timing & scoring implementation with AMB i.t. for the 2000 Indy 500; IRL consulting |
+| **Indianapolis Motor Speedway & Team Green** | Timing & scoring implementation with AMB i.t. for the Indy 500; IRL consulting |
 
 ---
 
