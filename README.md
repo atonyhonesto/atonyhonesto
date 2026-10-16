@@ -31,6 +31,16 @@ Lately I'm building the **AI layer on top of that plumbing**: MCP servers in C#,
 <tr>
 <td colspan="2" valign="top">
 
+#### 🏀 [basketball-parquet-mcp](https://github.com/atonyhonesto/basketball-parquet-mcp)
+The NBA basketball-team use-case follow-up to my original [Parquet MCP server](https://github.com/atonyhonesto/ParquetMCPServer): natural-language player and series analysis over local Parquet files. This independent public reconstruction includes a runnable C#/.NET 10 MCP server, fictional basketball data, a 30-question catalogue and tested cross-game shooting calculations. No private team data or correspondence is published.
+
+![Basketball analytics](https://img.shields.io/badge/Basketball_analytics-E87524?style=flat-square) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square) ![Parquet](https://img.shields.io/badge/Parquet-006d77?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 #### 🏎️ [motorsport-data-platform-blueprint](https://github.com/atonyhonesto/motorsport-data-platform-blueprint)
 An independent architecture concept for making governed race data usable by AI assistants, simulation and digital twins. Includes a presentation outline, MCP tool contract, tenant-isolation controls and a historical-data pilot plan. Architecture and design material, not a deployed platform.
 
