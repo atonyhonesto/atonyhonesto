@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/tony-honesto-4195023"><img src="https://img.shields.io/badge/LinkedIn-Tony_Honesto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/atonyhonesto/tech-articles"><img src="https://img.shields.io/badge/Articles-142_and_counting-6f42c1?style=for-the-badge" alt="Articles"></a>
   <a href="mailto:atonyhonesto@gmail.com"><img src="https://img.shields.io/badge/Email-atonyhonesto@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based_in-Carmel,_Indiana-0b1f3a?style=for-the-badge" alt="Carmel, Indiana">
+  <img src="https://img.shields.io/badge/Based_in-Charlotte,_Indiana-0b1f3a?style=for-the-badge" alt="Charlotte, North Carolina">
 </p>
 
 I build software that solves real-world problems, turning complex requirements into practical applications, reliable data workflows and tools people can use. My experience spans motorsports technology, race operations, enterprise applications, data engineering and AI-assisted development.
